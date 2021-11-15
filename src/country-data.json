@@ -1665,20 +1665,6 @@
 		"region": "OC",
 		"population": 11192
 	},
-	"TW": {
-		"name": "Taiwan",
-		"longname": "The Republic of China",
-		"sovereignty": "disputed",
-		"region": "AS",
-		"population": 23604265
-	},
-	"TZ": {
-		"name": "Tanzania",
-		"longname": "The United Republic of Tanzania",
-		"sovereignty": "UN",
-		"region": "AF",
-		"population": 55890747
-	},
 	"UA": {
 		"name": "Ukraine",
 		"longname": "Ukraine",
